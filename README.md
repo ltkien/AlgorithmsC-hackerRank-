@@ -3,11 +3,11 @@ Some solution
 
 ##1 Solve Me First
 
-static int solveMeFirst(int a, int b) { 
-      // Hint: Type return a+b; below  
-      int sum= a+b;
-      return sum;
-    }
+      static int solveMeFirst(int a, int b) { 
+            // Hint: Type return a+b; below  
+            int sum= a+b;
+            return sum;
+      }
     
 ##2 Simple Array Sum
 
